@@ -35,7 +35,11 @@ This portfolio is not just a digital resume — it’s a space where creativity 
 
 ---
 
+## 📸 Preview
 
 
-
-
+![ss_1](https://github.com/user-attachments/assets/8a7e555d-55f5-42ff-b917-e9a7c7b04ffc)
+![ss_2](https://github.com/user-attachments/assets/c6ecb98f-bcf7-4efd-a5e1-6b7fbccd9b12)
+![ss_3](https://github.com/user-attachments/assets/67aff888-8ea4-4bcd-b57e-671a6595f691)
+![ss_4](https://github.com/user-attachments/assets/669ba77f-4217-4c34-9a78-6e0ffc633ada)
+![ss_5](https://github.com/user-attachments/assets/ebc17e92-ed06-4cc3-9a9c-35a2680d97b6)
